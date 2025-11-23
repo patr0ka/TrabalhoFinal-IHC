@@ -3,8 +3,6 @@
 > **Projeto da disciplina de Interação Humano-Computador (IHC)**
 > *4º Ano de Ciência da Computação*
 
-![Saturnia Banner](img/saturnia.png)
-
 ## 📖 Sobre o Projeto
 
 **Saturnia** é um protótipo de alta fidelidade de uma plataforma social voltada para músicos e entusiastas da música. O objetivo do projeto é explorar conceitos de **usabilidade**, **feedback de sistema** e **design de interfaces complexas** no navegador.
