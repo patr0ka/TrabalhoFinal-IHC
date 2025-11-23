@@ -3,7 +3,7 @@
 > **Projeto da disciplina de Interação Humano-Computador (IHC)**
 > *4º Ano de Ciência da Computação*
 
-![Saturnia Banner](img/logo-placeholder.pn)
+![Saturnia Banner](img/saturnia.png)
 
 ## 📖 Sobre o Projeto
 
@@ -53,12 +53,6 @@ Este projeto não requer instalação de dependências (Node.js, Python, etc.), 
     ```
 2.  Navegue até a pasta do projeto.
 3.  Abra o arquivo `index.html` em qualquer navegador moderno (Chrome, Edge, Firefox).
-
-## 📸 Capturas de Tela
-
-| Tela de Login | Feed Principal | Estúdio (DAW) |
-|:---:|:---:|:---:|
-| *[Inserir Print]* | *[Inserir Print]* | *[Inserir Print]* |
 
 ---
 
